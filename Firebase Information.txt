@@ -1,0 +1,4 @@
+Gmail: nazmulshanto1803170@gmail.com
+Password: ruet@1803170
+Firebase host url: factory-surveillance-df7a6-default-rtdb.firebaseio.com
+Firebase auth token: fZWqCU9SiAzGF0LeKbBRLYogv8uP41PBHS5nSsNA
